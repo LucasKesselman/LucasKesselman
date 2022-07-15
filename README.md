@@ -1,5 +1,6 @@
 - 👋 Hi, I’m @LucasKesselman
-- 🌱 I’m currently learning Three.js
+- 🏢 Professinally, I am a senior analyst at an enterprise CX sofware company in the US
+- 🌱 For fun, I’m currently learning 3D graphics librarys in Typescript like THREE.js and babylon.js
 - 📫 How to reach me: lucaskesselman at gmail.com
 
 <!---
